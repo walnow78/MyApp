@@ -1,0 +1,37 @@
+BCSymbolMap Version: 2.0
+_swift_rt_swift_getInitializedObjCClass
+_swift_rt_swift_slowAlloc
+_swift_rt_swift_slowDealloc
+__T011MyFramework10CalculatorCML
+__T011MyFramework10CalculatorCMf
+__T011MyFramework10CalculatorCMF
+__T011MyFramework5PawelCML
+__T011MyFramework5PawelCMf
+__T011MyFramework5PawelCMF
+__swift_FORCE_LOAD_$_swiftUIKit_$_MyFramework
+__swift_FORCE_LOAD_$_swiftFoundation_$_MyFramework
+__swift_FORCE_LOAD_$_swiftObjectiveC_$_MyFramework
+__swift_FORCE_LOAD_$_swiftDarwin_$_MyFramework
+__swift_FORCE_LOAD_$_swiftCoreFoundation_$_MyFramework
+__swift_FORCE_LOAD_$_swiftDispatch_$_MyFramework
+__swift_FORCE_LOAD_$_swiftCoreGraphics_$_MyFramework
+__swift_FORCE_LOAD_$_swiftCoreImage_$_MyFramework
+__swift_FORCE_LOAD_$_swiftMetal_$_MyFramework
+__swift_FORCE_LOAD_$_swiftQuartzCore_$_MyFramework
+___swift_reflection_version
+_objc_classes
+Apple LLVM version 9.0.0 (clang-900.0.39.2)
+-emit-bc /Users/536038/Desktop/MyApp/MyFramework/Calculator.swift -target arm64-apple-ios11.2 -Xllvm -aarch64-use-tbi -enable-objc-interop -sdk "/Applications/Xcode 9.2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk" -I /Users/536038/Library/Developer/Xcode/DerivedData/MyApp-elbfnekexkhhzzcaybravskysunk/Build/Intermediates.noindex/ArchiveIntermediates/MyFramework/BuildProductsPath/Release-iphoneos -F /Users/536038/Library/Developer/Xcode/DerivedData/MyApp-elbfnekexkhhzzcaybravskysunk/Build/Intermediates.noindex/ArchiveIntermediates/MyFramework/BuildProductsPath/Release-iphoneos -g -import-underlying-module -module-cache-path /Users/536038/Library/Developer/Xcode/DerivedData/ModuleCache -swift-version 4 -serialize-debugging-options -report-errors-to-debugger -Xcc -I/Users/536038/Library/Developer/Xcode/DerivedData/MyApp-elbfnekexkhhzzcaybravskysunk/Build/Intermediates.noindex/ArchiveIntermediates/MyFramework/IntermediateBuildFilesPath/MyApp.build/Release-iphoneos/MyFramework.build/swift-overrides.hmap -Xcc -iquote -Xcc /Users/536038/Library/Developer/Xcode/DerivedData/MyApp-elbfnekexkhhzzcaybravskysunk/Build/Intermediates.noindex/ArchiveIntermediates/MyFramework/IntermediateBuildFilesPath/MyApp.build/Release-iphoneos/MyFramework.build/MyFramework-generated-files.hmap -Xcc -I/Users/536038/Library/Developer/Xcode/DerivedData/MyApp-elbfnekexkhhzzcaybravskysunk/Build/Intermediates.noindex/ArchiveIntermediates/MyFramework/IntermediateBuildFilesPath/MyApp.build/Release-iphoneos/MyFramework.build/MyFramework-own-target-headers.hmap -Xcc -I/Users/536038/Library/Developer/Xcode/DerivedData/MyApp-elbfnekexkhhzzcaybravskysunk/Build/Intermediates.noindex/ArchiveIntermediates/MyFramework/IntermediateBuildFilesPath/MyApp.build/Release-iphoneos/MyFramework.build/MyFramework-all-non-framework-target-headers.hmap -Xcc -ivfsoverlay -Xcc /Users/536038/Library/Developer/Xcode/DerivedData/MyApp-elbfnekexkhhzzcaybravskysunk/Build/Intermediates.noindex/ArchiveIntermediates/MyFramework/IntermediateBuildFilesPath/MyApp.build/all-product-headers.yaml -Xcc -iquote -Xcc /Users/536038/Library/Developer/Xcode/DerivedData/MyApp-elbfnekexkhhzzcaybravskysunk/Build/Intermediates.noindex/ArchiveIntermediates/MyFramework/IntermediateBuildFilesPath/MyApp.build/Release-iphoneos/MyFramework.build/MyFramework-project-headers.hmap -Xcc -I/Users/536038/Library/Developer/Xcode/DerivedData/MyApp-elbfnekexkhhzzcaybravskysunk/Build/Intermediates.noindex/ArchiveIntermediates/MyFramework/BuildProductsPath/Release-iphoneos/include -Xcc -I/Users/536038/Library/Developer/Xcode/DerivedData/MyApp-elbfnekexkhhzzcaybravskysunk/Build/Intermediates.noindex/ArchiveIntermediates/MyFramework/IntermediateBuildFilesPath/MyApp.build/Release-iphoneos/MyFramework.build/DerivedSources/arm64 -Xcc -I/Users/536038/Library/Developer/Xcode/DerivedData/MyApp-elbfnekexkhhzzcaybravskysunk/Build/Intermediates.noindex/ArchiveIntermediates/MyFramework/IntermediateBuildFilesPath/MyApp.build/Release-iphoneos/MyFramework.build/DerivedSources -Xcc -ivfsoverlay -Xcc /Users/536038/Library/Developer/Xcode/DerivedData/MyApp-elbfnekexkhhzzcaybravskysunk/Build/Intermediates.noindex/ArchiveIntermediates/MyFramework/IntermediateBuildFilesPath/MyApp.build/Release-iphoneos/MyFramework.build/unextended-module-overlay.yaml -Xcc -working-directory/Users/536038/Desktop/MyApp -emit-module-doc-path /Users/536038/Library/Developer/Xcode/DerivedData/MyApp-elbfnekexkhhzzcaybravskysunk/Build/Intermediates.noindex/ArchiveIntermediates/MyFramework/IntermediateBuildFilesPath/MyApp.build/Release-iphoneos/MyFramework.build/Objects-normal/arm64/MyFramework.swiftdoc -serialize-diagnostics-path /Users/536038/Library/Developer/Xcode/DerivedData/MyApp-elbfnekexkhhzzcaybravskysunk/Build/Intermediates.noindex/ArchiveIntermediates/MyFramework/IntermediateBuildFilesPath/MyApp.build/Release-iphoneos/MyFramework.build/Objects-normal/arm64/Calculator.dia -O -parse-as-library -module-name MyFramework -emit-module-path /Users/536038/Library/Developer/Xcode/DerivedData/MyApp-elbfnekexkhhzzcaybravskysunk/Build/Intermediates.noindex/ArchiveIntermediates/MyFramework/IntermediateBuildFilesPath/MyApp.build/Release-iphoneos/MyFramework.build/Objects-normal/arm64/MyFramework.swiftmodule -emit-objc-header-path /Users/536038/Library/Developer/Xcode/DerivedData/MyApp-elbfnekexkhhzzcaybravskysunk/Build/Intermediates.noindex/ArchiveIntermediates/MyFramework/IntermediateBuildFilesPath/MyApp.build/Release-iphoneos/MyFramework.build/Objects-normal/arm64/MyFramework-Swift.h -emit-dependencies-path /Users/536038/Library/Developer/Xcode/DerivedData/MyApp-elbfnekexkhhzzcaybravskysunk/Build/Intermediates.noindex/ArchiveIntermediates/MyFramework/IntermediateBuildFilesPath/MyApp.build/Release-iphoneos/MyFramework.build/Objects-normal/arm64/Calculator.d -num-threads 8 -o /Users/536038/Library/Developer/Xcode/DerivedData/MyApp-elbfnekexkhhzzcaybravskysunk/Build/Intermediates.noindex/ArchiveIntermediates/MyFramework/IntermediateBuildFilesPath/MyApp.build/Release-iphoneos/MyFramework.build/Objects-normal/arm64/Calculator.bc -resource-dir "/Applications/Xcode 9.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift"
+<swift-imported-modules>
+/Users/536038/Desktop/MyApp
+Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)
+/Users/536038/Desktop/MyApp/MyFramework/Calculator.swift
+_T011MyFramework5PawelCMa
+Calculator.swift
+/Users/536038/Desktop/MyApp/MyFramework
+get_field_types_Pawel
+_T011MyFramework10CalculatorCMa
+get_field_types_Calculator
+deinit
+sum
+/Users/536038/Library/Developer/Xcode/DerivedData/MyApp-elbfnekexkhhzzcaybravskysunk/Build/Intermediates.noindex/ArchiveIntermediates/MyFramework/IntermediateBuildFilesPath/MyApp.build/Release-iphoneos/MyFramework.build/DerivedSources/MyFramework_vers.c

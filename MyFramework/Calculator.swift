@@ -9,6 +9,14 @@
 import Foundation
 
 public class Calculator {
+  
+    public func sum(number1: Int, number2: Int) -> Int {
+        return number1 + number2
+    }
+}
+
+public class Pawel {
+    
     public func sum(number1: Int, number2: Int) -> Int {
         return number1 + number2
     }
