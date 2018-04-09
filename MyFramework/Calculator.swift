@@ -25,4 +25,15 @@ public class Pawel: NSObject {
     public func sum(number1: Int, number2: Int) -> Int {
         return number1 + number2
     }
+    
+    public func myRest(number1: Int, number2: Int) -> Int {
+        let result = rest(number1: number1, number2: number2)
+        return result
+    }
+    
+    private func rest(number1: Int, number2: Int) -> Int {
+    
+        return number1 - number2
+    
+    }
 }
