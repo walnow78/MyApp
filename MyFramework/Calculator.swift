@@ -15,7 +15,12 @@ public class Calculator {
     }
 }
 
-public class Pawel {
+public class Pawel: NSObject {
+    
+  
+   public override init() {
+        super.init()
+    }
     
     public func sum(number1: Int, number2: Int) -> Int {
         return number1 + number2
