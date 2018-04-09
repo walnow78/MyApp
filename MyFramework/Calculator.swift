@@ -52,7 +52,7 @@ public class Vicente {
     }
     
     public func yourName() -> String {
-        return "hello \(name)"
+        return "hello2 \(name)"
     }
     
 }
